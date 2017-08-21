@@ -28,5 +28,13 @@ public class MainActivity extends AppCompatActivity {
     public void feature2(View view) {
         Log.d("tag","功能2");
     }
+    /**
+     * feature-2
+     * display HelloWorld
+     * @param view
+     */
+    public void feature3(View view) {
+        Log.d("tag","功能3");
+    }
 
 }
